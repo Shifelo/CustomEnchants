@@ -1,0 +1,12 @@
+name: CustomEnchants
+version: '1.0-SNAPSHOT'
+author: Shifelo
+main: sbs.jeflo.customenchants.CustomEnchants
+api-version: '1.21'
+
+commands:
+  givecustombook:
+    description: "Give a custom enchantment book."
+    usage: "/givecustombook <enchant> [level]"
+    permission: customenchants.givecustombook
+    permission-message: No tienes permiso para usar este comando.

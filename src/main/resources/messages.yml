@@ -1,0 +1,58 @@
+en:
+  excavator:
+    name: "§bExcavator"
+    description: |
+      §7Breaks an area of blocks equal to the original block.
+      §7Level 1: 3x3, Level 2: 5x5, Level 3: 7x7.
+  lumberjack:
+    name: "§bLumberjack"
+    description: |
+      §7Instantly chops down entire trees.
+      §7Greater reach per level.
+  veinminer:
+    name: "§bVeinMiner"
+    description: |
+      §7Mines entire ore veins.
+      §7More blocks per level.
+  autosmelt:
+    name: "§bAutoSmelt"
+    description: |
+      §7Blocks are automatically smelted when mined.
+      §7More drops per level.
+  replenish:
+    name: "§bReplenish"
+    description: |
+      §7Automatically replants crops.
+      §7Better effects per level.
+  bleeding:
+    name: "§bBleeding"
+    description: |
+      §7Inflicts bleeding (poison) on hit.
+      §7More duration and power per level.
+  combo:
+    name: "§bCombo"
+    description: |
+      §7Consecutive hits deal more damage.
+      §7More damage per level.
+  decapitate:
+    name: "§bDecapitate"
+    description: |
+      §7Chance to obtain the enemy's head on kill.
+  disarm:
+    name: "§bDisarm"
+    description: |
+      §7Chance to disarm the enemy.
+      §7Higher chance per level.
+  vampirism:
+    name: "§bVampirism"
+    description: |
+      §7Steal life on hit.
+      §7More healing per level.
+  book:
+    format: "{name} {level}"
+    lore: "{description}"
+  not_found: "Enchantment not found."
+  given: "Enchantment book given: {name} {level}"
+  no_permission: "You do not have permission to use this command."
+  only_players: "This command can only be used by players."
+  usage: "Usage: /givecustombook <enchant> [level]"
