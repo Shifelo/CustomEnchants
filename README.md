@@ -1,6 +1,7 @@
 # CustomEnchants (Spigot 1.21.4)
 
-⚠️ WARNING: This is a sample code project meant for demonstration and knowledge sharing. Not all features, checks, and protections required for a real server plugin are included. Not ‘production-ready’. Use at your own risk!
+> [!WARNING]
+>This is a sample code project meant for demonstration and knowledge sharing. Not all features, checks, and protections required for a real server plugin are included. Not ‘production-ready’. Use at your own risk!
 
 ## Description
 
